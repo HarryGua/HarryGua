@@ -1,0 +1,12 @@
+Common Conventional commits:
+   - feat： 新功能（feature）
+   - fix： 修复 bug
+   - docs： 文档（documentation）更新
+   - style： 代码格式的调整（不影响代码运行的变动，如空格、分号、缩进等）
+   - refactor： 重构（即不是新增功能，也不是修改 bug 的代码变动）
+   - perf： 性能优化
+   - test： 增加或修改测试用例
+   - build： 影响构建系统或外部依赖的更改（例如：gulp, broccoli, npm）
+   - ci： 对 CI 配置文件和脚本的更改（例如：Travis, Circle, BrowserStack, SauceLabs）
+   - chore： 其他不修改源代码或测试文件的变动（如构建过程或辅助工具的变动）
+   - revert： 回滚到某个历史版本
