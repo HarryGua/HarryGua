@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+不要总是沉溺在技术之中，而是发现问题并解决它。
+
 <!--
 **HarryGua/HarryGua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on frontend code.
+I'm currently working on frontend code: HTML
+
