@@ -2,6 +2,9 @@
 
 不要总是沉溺在技术之中，而是发现问题并解决它。
 
+最好是去做一个现充，可以到达许多技术无法到达的地方。
+
+
 <!--
 **HarryGua/HarryGua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
