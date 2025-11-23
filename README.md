@@ -26,3 +26,5 @@ I'm currently working on:
   3. C++ basic
   4. Game client development
 
+我需要时常地总结与反思自己，如果能够做到每天输出一份一百字的总结就再好不过了
+
