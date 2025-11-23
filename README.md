@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on frontend code: HTML
+I'm currently working on: 
+  1. frontend code: HTML
+  2. data structure and algorithms (python)
+  3. C++ basic
+  4. Game client development
 
